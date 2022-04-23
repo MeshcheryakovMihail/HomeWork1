@@ -1,7 +1,7 @@
 package HomeWork1;
 
 import javax.swing.*;
-
+// сделал домашку 1
 public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
