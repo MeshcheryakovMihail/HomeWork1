@@ -4,15 +4,10 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class ArrayClassStudyToday {
-    package Lection03.online;
+    package less2;
 
 import java.util.Random;
 import java.util.Scanner;
-
-    /**
-     * Created by Aleksandr Gladkov [Anticisco]
-     * Date: 27.04.2022
-     */
 
     public class ArrayClassStudyToday {
 
