@@ -3,12 +3,6 @@ package less2;
 import java.util.Random;
 import java.util.Scanner;
 
-public class ArrayClassStudyToday {
-    package less2;
-
-import java.util.Random;
-import java.util.Scanner;
-
     public class ArrayClassStudyToday {
 
         public static Scanner scanner = new Scanner(System.in);
